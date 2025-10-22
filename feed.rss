@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaxon Strategy Feed</title>
+    <description>Strategy documents for Jaxon Digital's transformation from Optimizely services company to AI Operations Platform SaaS. Includes platform vision, agent catalog, roadmaps, and partnership materials.</description>
+    <language>en-us</language>
+    <link>https://github.com/JaxonDigital/jaxon-strategy-feed</link>
+    <ns0:author>Jaxon Digital</ns0:author>
+    <ns0:category text="Business"/>
+    <ns0:explicit>no</ns0:explicit>
+    <ns1:link href="https://jaxondigital.github.io/jaxon-strategy-feed/feed.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>optimizely-pitch</title>
+      <description>Strategy document - optimizely-pitch</description>
+      <pubDate>Tue, 21 Oct 2025 11:19:59  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1fE3ZTEPgXlZaYVkD7v2I8BSq5oRQKKQd</guid>
+      <enclosure length="20655884" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1fE3ZTEPgXlZaYVkD7v2I8BSq5oRQKKQd"/>
+      <ns0:duration>00:17:12</ns0:duration>
+      <ns0:author>Jaxon Digital</ns0:author>
+    </item>
+    <item>
+      <title>week-1-plan</title>
+      <description>Strategy document - week-1-plan</description>
+      <pubDate>Tue, 21 Oct 2025 11:16:56  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1TDJ-A58hs3Cp_8liMMtSjyVnJY_0Onsj</guid>
+      <enclosure length="22875404" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1TDJ-A58hs3Cp_8liMMtSjyVnJY_0Onsj"/>
+      <ns0:duration>00:19:03</ns0:duration>
+      <ns0:author>Jaxon Digital</ns0:author>
+    </item>
+    <item>
+      <title>ai-first-playbook</title>
+      <description>Strategy document - ai-first-playbook</description>
+      <pubDate>Tue, 21 Oct 2025 11:13:56  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1sduc7XwUN6sp_l_T7JH30Jo3_f8JOwBP</guid>
+      <enclosure length="28142444" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1sduc7XwUN6sp_l_T7JH30Jo3_f8JOwBP"/>
+      <ns0:duration>00:23:27</ns0:duration>
+      <ns0:author>Jaxon Digital</ns0:author>
+    </item>
+    <item>
+      <title>saas-roadmap</title>
+      <description>Strategy document - saas-roadmap</description>
+      <pubDate>Tue, 21 Oct 2025 11:10:41  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1Qxy8u4U5INWCpyfHcqRTkdRnGKhU8zFM</guid>
+      <enclosure length="25278284" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1Qxy8u4U5INWCpyfHcqRTkdRnGKhU8zFM"/>
+      <ns0:duration>00:21:03</ns0:duration>
+      <ns0:author>Jaxon Digital</ns0:author>
+    </item>
+    <item>
+      <title>operator-platform-spec</title>
+      <description>Strategy document - operator-platform-spec</description>
+      <pubDate>Tue, 21 Oct 2025 11:07:58  +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1YN9jItn-JYgfalROBPHm-5Bv_p6BITkr</guid>
+      <enclosure length="26547404" type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;id=1YN9jItn-JYgfalROBPHm-5Bv_p6BITkr"/>
+      <ns0:duration>00:22:07</ns0:duration>
+      <ns0:author>Jaxon Digital</ns0:author>
+    </item>
+  </channel>
+</rss>
